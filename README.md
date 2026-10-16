@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm a self-taught Junior Business Analyst. This portfolio demonstrates the four things employers test: understanding a business problem, asking the right questions, documenting clearly, and getting people to agree. Built over 8 weeks (~10–12 hrs/week) using free tools only (draw.io, Figma free, Google Sheets, Notion).
+I'm still on the self-learning route to becoming a Junior Business Analyst. This portfolio demonstrates the four things employers test: understanding a business problem, asking the right questions, documenting clearly, and getting people to agree. Built over 8 weeks (~10–12 hrs/week) using free tools only (draw.io, Figma free, Google Sheets, Notion).
 
 ## The fictional client: QuickKlinik
 
