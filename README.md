@@ -27,7 +27,7 @@ A small fictional online clinic-booking platform in Malaysia. Patients book GP a
 - `03_Business_Case/` — Analysis findings, options comparison, ROI model (Excel, blue input cells), RAID, 5-slide pitch, 1-pager
 - `04_Agile_UAT/` — Backlog & sprint plan, ceremonies, UAT plan, 18 test cases, traceability matrix, go/no-go
 - `BA_Project_Tracker_Filled.xlsx` — full workbook: Stakeholders, Requirements, Backlog, UAT, RAID, auto Summary
-- `CV_LinkedIn_Interview_Prep.md` — CV bullets (labelled as independent case study), LinkedIn posts, 2-min STAR stories
+
 
 ## Quality checklist (self-audited)
 
