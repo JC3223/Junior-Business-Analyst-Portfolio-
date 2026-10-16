@@ -8,25 +8,25 @@ I'm still on the self-learning route to becoming a Junior Business Analyst. This
 
 ## The fictional client: QuickKlinik
 
-A small fictional online clinic-booking platform in Malaysia. Patients book GP appointments through a web app; clinics manage schedules on a lightweight admin panel. See `01_Company_Profile.md`.
+A small fictional online clinic-booking platform in Malaysia. Patients book GP appointments through a web app; clinics manage schedules on a lightweight admin panel. See the [company profile](01-process-improvement/README.MD).
 
 ## The 4 projects (one coherent story arc)
 
 | # | Project | Core BA skill | Key artefacts |
 | --- | --- | --- | --- |
-| 1 | Process Improvement — *Why are no-shows high and bookings slow?* | Elicitation, process analysis | As-Is/To-Be maps, 5-Whys, fishbone, gap analysis, KPIs |
-| 2 | Requirements Package — *Self-service reschedule feature* | Documentation, stakeholder work | Scope, BRD, user stories (GWT), wireframes, data dictionary |
-| 3 | Data-Driven Business Case — *Should we build an SMS reminder system?* | Analysis, recommendation | SQL/Excel analysis, options, ROI model (scenarios), 5-slide pitch |
-| 4 | Agile Delivery & UAT — *Deliver and prove it works* | Delivery, testing, traceability | Backlog, sprint plan, UAT plan & cases, RTM, go/no-go |
+| 1 | Process Improvement — *Why are no-shows high and bookings slow?* | Elicitation, process analysis | [To-Be process map](assets/To-Be.png) |
+| 2 | [Requirements Package — *Self-service reschedule feature*](02-Project%20Requirements/README.MD) | Documentation, stakeholder work | Scope, BRD, user stories (GWT), wireframes, data dictionary |
+| 3 | [Data-Driven Business Case — *Should we build an SMS reminder system?*](03-Business%20Case/README.MD) | Analysis, recommendation | SQL/Excel analysis, options, ROI model (scenarios), 5-slide pitch |
+| 4 | [Agile Delivery & UAT — *Deliver and prove it works*](04-Agile-UAT/README.MD) | Delivery, testing, traceability | Backlog, sprint plan, UAT plan & cases, RTM, go/no-go |
 
 ## Files
 
-- `01_Company_Profile.md` — half-page company profile
-- `01_Process_Improvement/` — As-Is & To-Be maps (Mermaid, ready for draw.io), root causes, gap analysis, KPI table, 2-page summary
-- `02_Requirements_Package/` — Scope, BRD, 12 user stories with acceptance criteria, wireframe specs, data dictionary, MoSCoW
-- `03_Business_Case/` — Analysis findings, options comparison, ROI model (Excel, blue input cells), RAID, 5-slide pitch, 1-pager
-- `04_Agile_UAT/` — Backlog & sprint plan, ceremonies, UAT plan, 18 test cases, traceability matrix, go/no-go
-- `BA_Project_Tracker_Filled.xlsx` — full workbook: Stakeholders, Requirements, Backlog, UAT, RAID, auto Summary
+- [Company profile](01-process-improvement/README.MD) — fictional client background
+- [To-Be process map](assets/To-Be.png)
+- [Requirements package](02-Project%20Requirements/README.MD)
+- [Business case](03-Business%20Case/README.MD)
+- [Agile delivery & UAT](04-Agile-UAT/README.MD)
+- [BA Project Tracker](BA_Project_Tracker_Filled.xlsx) — Stakeholders, Requirements, Backlog, UAT, RAID, and Summary worksheets
 
 
 ## Quality checklist (self-audited)
