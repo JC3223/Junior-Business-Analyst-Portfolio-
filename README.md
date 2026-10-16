@@ -1,3 +1,7 @@
+---
+title: false
+---
+
 # Junior Business Analyst Portfolio — Chan Baojeff (Career Changer, Self-Taught)
 
 > **Disclosure:** Every project in this portfolio is an independent case study built around a fictional client, *QuickKlinik*, created for learning purposes. It is not real client work.
